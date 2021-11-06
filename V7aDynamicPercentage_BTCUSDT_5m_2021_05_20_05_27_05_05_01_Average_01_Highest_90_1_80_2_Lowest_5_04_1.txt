@@ -1,3 +1,4 @@
+f
 Test Name:	V7aDynamicPercentage_BTCUSDT_5m_2021_05_20_05_27_05_05_01_Average_01_Highest_90_1_80_2_Lowest_5_04_1
 Test Outcome:	Failed
 Result Message:	Assert.Fail failed. Final Ledger: Fiat: -0.000000000000000000000001 | Coin: 0.4574141626279059644597727191 | FiatValue: 17624.158537769964252515753671
